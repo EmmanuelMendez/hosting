@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- <meta charset="UTF-8"> -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link  rel="stylesheet" href="css/Style.css">
+    <title>Efectos con CSS</title>
+</head>
+<body>
+    <header class="separador">
+        <h3>Efectos con  el CSS</h3>
+    </header>
+    <section class="contenido txtDerecha zona1">
+        <h2>probandp el efecto</h2>
+        <p>
+            loreeem
+        </p>
+    </section>
+    <section class="separador">
+        <h2>segunda Sección</h2>
+<br><br><br><br><br><br>
+    </section>
+    <section class="contenido txtIzquierda zona2">
+        <h2>probandp el efecto</h2>
+        <p>
+            loreeem
+        </p>
+    </section>
+    <!--zona3-->
+    <section class="separador">
+<h2>tercera</h2>
+<br><br><br><br>
+    </section>
+    <section class="contenido txtCentro zona3">
+        <h2>probandp el efecto de pantalla</h2>
+        <p>
+            loreeem
+        </p>
+    </section>
+<!--zonA 4-->
+    <section class="separador">
+        <h2>EFECTO</h2>
+        <br><br><br><br>
+            </section>
+            <section class="contenido txtCentro zona3">
+                <img id="img1" class="imagenes" src="img/makeup.png" alt="model">
+            </section>
+
+    
+</body>
+</html>
